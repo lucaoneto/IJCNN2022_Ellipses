@@ -1,5 +1,5 @@
 # COGN2021_Elipses
-In this repository, code and results of paper "The Importance of Multiple Temporal Scalesin Motion Recognition:from Shallow to Deep Multi Scale Models" are reported.
+In this repository, code and results of paper "The Importance of Multiple Temporal Scales in Motion Recognition:from Shallow to Deep Multi Scale Models" are reported.
 
 The directory called "data" includes several txt files. In particular, features extracted using the splits reported in the following Figure which are input for the tested shallow Machine Learning model. For each raw time series (velocity, pressure and radius) we extracted the list of features presented in the paper.
 The list of different segmentation criteria used is the following:
