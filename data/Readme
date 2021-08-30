@@ -1,4 +1,4 @@
-Files are zipped since github not allow to upload a file with dimension bigger than 25MB.
+Files are zipped since github not allow to upload a file with dimension larger than 25MB.
 
 Although compressing the files, the data14.txt exceeds the dimension allowed. 
 In order to overcome this problem and to provide the data to the research community, we splitted raw data for each subject in the repository into separate files 
